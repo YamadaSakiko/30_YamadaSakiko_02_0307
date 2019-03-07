@@ -1,0 +1,149 @@
+
+img{
+    max-width: 100%;
+    height: auto;
+    width: 70%;
+    padding: 10px;
+}
+
+.a {
+    width: 800px;
+    height: 504px;
+    background: url(zoo.jpg) no-repeat center;
+    background-size: cover;
+    position: relative;
+    margin: auto;
+}
+
+.b{
+    width: 800px;
+    margin: auto;
+    padding: 50px 0;
+}
+
+.c{
+    width: 800px;
+    margin: auto;
+    padding: 80px 0;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.your-hand {
+    display: block;
+    width: 365px;
+    margin: auto;
+    padding: 13px 0;
+    background: #f99bbb;
+    color: #000;
+    font-size: 1.8rem;
+}
+
+.animal-hand{
+    display: block;
+    width: 365px;
+    margin: auto;
+    padding: 13px 0;
+    background-color: #ff99bb;
+    color:#000000;
+    font-size: 1.8rem;
+}
+
+.wrapper{
+    max-width: 800px;
+    margin: auto;
+}
+
+.janken{
+    display: flex;
+}
+
+.janken-item{
+    width: 33.333%;
+}
+
+.hand-gu{
+    display: block;
+    width: 183px;
+    margin: auto;
+    padding: 10px 0;
+    background-color: #55bbff;
+    color:#ffffff;
+    font-size: 19px;
+}
+
+.hand-choki{
+    display: block;
+    width: 183px;
+    margin: auto;
+    padding: 10px 0;
+    background-color: #ff0000;
+    color:#ffffff;
+    font-size: 19px;
+}
+
+.hand-pa{
+    display: block;
+    width: 183px;
+    margin: auto;
+    padding: 10px 0;
+    background-color: #ffbb00;
+    color:#000000;
+    font-size: 19px;
+}
+
+.challenge{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.font-pink{
+    color:#ff1493;
+    font-size: 50px;
+}
+
+.font-blue{
+    color:#00bfff;
+    font-size: 50px;
+}
+
+.font-orange{
+    color:#ff8c00;
+    font-size: 50px;
+}
+
+.font-puple{
+    color:#9932cc;
+    font-size: 50px;
+}
+
+.text-center1 {
+    /* background: red; */
+    text-align: center;
+    position: absolute;
+    bottom: 131px;
+    left: 0;
+    right: 0;
+}
+
+.text-center2 {
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.gazo{
+    text-align: center;
+}
+
+.cap{
+    margin-bottom: 30px;
+}
+
